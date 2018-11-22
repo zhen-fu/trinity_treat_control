@@ -1,4 +1,4 @@
-control	CO1	/home/zhen.fu/genomic_data/pear/CO1_trim_1.fq	/home/zhen.fu/genomic_data/ear/CO1_trim_2.fqc
+control	CO1	/home/zhen.fu/genomic_data/pear/CO1_trim_1.fq	/home/zhen.fu/genomic_data/ear/CO1_trim_2.fq
 control	CO2	/home/zhen.fu/genomic_data/pear/CO2_trim_1.fq	/home/zhen.fu/genomic_data/pear/CO2_trim_2.fq 	 
 control	CO3	/home/zhen.fu/genomic_data/pear/CO3_trim_1.fq	/home/zhen.fu/genomic_data/pear/CO3_trim_2.fq
 treatment	S1	/home/zhen.fu/genomic_data/pear/S1_trim_1.fq	/home/zhen.fu/genomic_data/pear/S1_trim_2.fq
